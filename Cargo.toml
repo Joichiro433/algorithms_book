@@ -1,0 +1,42 @@
+[package]
+name = "algorithms_book"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[[bin]]
+name = "ch03_1"
+path = "src/ch03/code_1.rs"
+[[bin]]
+name = "ch03_2"
+path = "src/ch03/code_2.rs"
+[[bin]]
+name = "ch03_3"
+path = "src/ch03/code_3.rs"
+[[bin]]
+name = "ch03_4"
+path = "src/ch03/code_4.rs"
+[[bin]]
+name = "ch03_5"
+path = "src/ch03/code_5.rs"
+[[bin]]
+name = "sl03_2"
+path = "src/ch03/solution3_2.rs"
+[[bin]]
+name = "sl03_3"
+path = "src/ch03/solution3_3.rs"
+[[bin]]
+name = "sl03_4"
+path = "src/ch03/solution3_4.rs"
+[[bin]]
+name = "sl03_5"
+path = "src/ch03/solution3_5.rs"
+[[bin]]
+name = "sl03_6"
+path = "src/ch03/solution3_6.rs"
+[[bin]]
+name = "sl03_7"
+path = "src/ch03/solution3_7.rs"
+
+[dependencies]
