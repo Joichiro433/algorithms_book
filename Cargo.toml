@@ -39,4 +39,35 @@ path = "src/ch03/solution3_6.rs"
 name = "sl03_7"
 path = "src/ch03/solution3_7.rs"
 
+[[bin]]
+name = "ch04_1"
+path = "src/ch04/code_1.rs"
+[[bin]]
+name = "ch04_2"
+path = "src/ch04/code_2.rs"
+[[bin]]
+name = "ch04_3"
+path = "src/ch04/code_3.rs"
+[[bin]]
+name = "ch04_4"
+path = "src/ch04/code_4.rs"
+[[bin]]
+name = "ch04_5"
+path = "src/ch04/code_5.rs"
+[[bin]]
+name = "ch04_6"
+path = "src/ch04/code_6.rs"
+[[bin]]
+name = "sl04_1"
+path = "src/ch04/solution_1.rs"
+[[bin]]
+name = "sl04_2"
+path = "src/ch04/solution_2.rs"
+[[bin]]
+name = "sl04_5"
+path = "src/ch04/solution_5.rs"
+[[bin]]
+name = "sl04_6"
+path = "src/ch04/solution_6.rs"
+
 [dependencies]
