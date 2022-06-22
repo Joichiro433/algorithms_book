@@ -57,5 +57,17 @@ path = "src/ch04/code_5.rs"
 [[bin]]
 name = "ch04_6"
 path = "src/ch04/code_6.rs"
+[[bin]]
+name = "sl04_1"
+path = "src/ch04/solution_1.rs"
+[[bin]]
+name = "sl04_2"
+path = "src/ch04/solution_2.rs"
+[[bin]]
+name = "sl04_5"
+path = "src/ch04/solution_5.rs"
+[[bin]]
+name = "sl04_6"
+path = "src/ch04/solution_6.rs"
 
 [dependencies]
